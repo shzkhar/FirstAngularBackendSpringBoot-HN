@@ -34,6 +34,6 @@ public class BookDaoImpl implements BookDao   {
         return query.getResultList();
 	}
 	
-
+ 
 	
 }
